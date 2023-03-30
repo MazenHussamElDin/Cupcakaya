@@ -444,7 +444,13 @@ p{
 }
 
 
-/* REMOVED MEDIA AREA, MAY CAUSE ERROR */
+@media only screen and (max-width:850px){
+
+    .row-aboutus {
+        flex-direction: column;
+    }
+    
+}
 
 img {
     transition: transform .3s ease;
