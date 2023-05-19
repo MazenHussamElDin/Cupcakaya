@@ -1,0 +1,1 @@
+This folder is for the entire project, which includes the "static" files which include the edited css and photos; the template files with the edited HTML files; and the python files for the backend
